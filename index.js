@@ -22,6 +22,15 @@ app.get('/', (req, res) => {
     "job": "Doctor",
     "email": "fatima.khan@email.com",
     "phone": "+92-321-9876543"
+  },
+  {
+    "id": 2,
+    "naam": " Khan",
+    "umar": 24,
+    "shehar": "Karachi",
+    "job": "Doctor",
+    "email": "fatima.khan@email.com",
+    "phone": "+92-321-9876543"
   }
 ])
 });
