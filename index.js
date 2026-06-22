@@ -24,13 +24,13 @@ app.get('/', (req, res) => {
     "phone": "+92-321-9876543"
   },
   {
-    "id": 2,
-    "naam": " Khan",
+    "id": 3,
+    "naam": "Ahmed Malik",
     "umar": 24,
     "shehar": "Karachi",
     "job": "Doctor",
-    "email": "fatima.khan@email.com",
-    "phone": "+92-321-9876567"
+    "email": "ahmed.malik@email.com",
+    "phone": "+92-321-9834567"
   }
 ])
 });
