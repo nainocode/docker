@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
     "shehar": "Karachi",
     "job": "Doctor",
     "email": "fatima.khan@email.com",
-    "phone": "+92-321-9876543"
+    "phone": "+92-321-9876567"
   }
 ])
 });
